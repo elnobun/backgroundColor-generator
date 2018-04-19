@@ -1,5 +1,5 @@
 {
-  "name": "backgroundColor-generator",
+  "name": "background-generator",
   "version": "1.0.0",
   "description": "background color generator powered by javascript",
   "main": "script.js",
