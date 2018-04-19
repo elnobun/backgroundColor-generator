@@ -16,8 +16,7 @@ const getRandomColor = () => {
 
 const gradientSelector = event => {
   if (event === undefined || event.target.id === "randomize") {
-    color1.value = getRandomColor();
-    color2.value = getRandomColor();
+    (color1, color2).value = getRandomColor();
   }
 
   body.style.background = `linear-gradient(to right, 
