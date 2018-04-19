@@ -1,0 +1,9 @@
+{
+  "name": "backgroundColor-generator",
+  "version": "1.0.0",
+  "description": "background color generator powered by javascript",
+  "main": "script.js",
+  "repository": "https://github.com/elnobun/backgroundColor-generator.git",
+  "author": "Ellis Enobun <elnobun@gmail.com>",
+  "license": "MIT"
+}
